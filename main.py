@@ -1,1 +1,6 @@
-print("hello")
+def main():
+    pass
+
+
+if __name__ == "main":
+    main()
